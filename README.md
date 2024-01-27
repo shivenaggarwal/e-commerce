@@ -3,6 +3,8 @@
 Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard & CMS using Next 14, Stripe.
 
 # Screenshots
+
+##Live Site
 ![herosection](/Screenshots/Screenshot%202024-01-27%20at%203.32.55 PM.png)
 
 ![categories](/Screenshots/Screenshot%202024-01-27%20at%203.33.08 PM.png)
@@ -24,6 +26,17 @@ Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard & CMS using
 ![login](/Screenshots/Screenshot%202024-01-27%20at%203.34.28 PM.png)
 
 ![reoverpasword](/Screenshots/Screenshot%202024-01-27%20at%203.34.49 PM.png)
+
+## Admin Dashboard
+![screen1](/Screenshots/Screenshot%202024-01-27%20at%204.45.52 PM.png)
+![screen2](/Screenshots/Screenshot%202024-01-27%20at%204.46.01 PM.png)
+![screen3](/Screenshots/Screenshot%202024-01-27%20at%204.46.38 PM.png)
+![screen4](/Screenshots/Screenshot%202024-01-27%20at%204.47.01 PM.png)
+
+
+
+
+
 
 
 
